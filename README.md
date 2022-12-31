@@ -16,8 +16,12 @@ class RestrictModel(BaseModel):
 async def ban_user(message: Message, period: date, reason: Optional[str]):
     ...
 ```
+---
 
 Diff:
 
 - Command arguments parsing, not just leaving single string like built-in aiogram filter
 - Command arguments separation and validation using Pydantic model.
+
+---
+Doc is ![available here](https://commandmk2.readthedocs.io/en/latest/index.html)
