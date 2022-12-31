@@ -24,4 +24,4 @@ Diff:
 - Command arguments separation and validation using Pydantic model.
 
 ---
-Doc is ![available here](https://commandmk2.readthedocs.io/en/latest/index.html)
+Doc is [available here](https://commandmk2.readthedocs.io/en/latest/index.html)
